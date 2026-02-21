@@ -227,7 +227,7 @@ export const cvData: CVData = {
       ],
       link: "",
       github: "https://github.com/abanoubyoussef2003/Sales-Data-Dashboard",
-      image1: "/public/projects/Dashboard1/Sales_Dashboard.png",
+      image1: "/projects/Dashboard1/Sales_Dashboard.png",
       image2: "",
     },
     {
@@ -258,7 +258,7 @@ export const cvData: CVData = {
       ],
       link: "",
       github: "",
-      image1: "/public/projects/Dashboard3/Executive_Banking_Overview.png",
+      image1: "/projects/Dashboard3/Executive_Banking_Overview.png",
       image2: "",
     },
   ],
@@ -274,7 +274,7 @@ export const cvData: CVData = {
         "Graduation Project: Handwritten Prescription Detection and Question Answering Medical System",
         "Application mobile (Roشtaa App) using Flutter and integrated NLP and CV model",
       ],
-      certificate: "/public/certificates/Collage.jpg",
+      certificate: "/certificates/Collage.jpg",
     },
   ],
 
@@ -283,13 +283,13 @@ export const cvData: CVData = {
       name: "AI Training Program",
       provider: "ITI Menoufia",
       year: "2023",
-      certificate: "/public/certificates/AI.jpg",
+      certificate: "/certificates/AI.jpg",
     },
     {
       name: "Leadership Training Program",
       provider: "Leadership Center – Benha",
       year: "2021",
-      certificate: "/public/certificates/Leader.jpg",
+      certificate: "/certificates/Leader.jpg",
     },
   ],
 };
