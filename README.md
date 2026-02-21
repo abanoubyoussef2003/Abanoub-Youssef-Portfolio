@@ -3,7 +3,7 @@
 Data Analyst (Excel SQL Power BI Python)  
 Turning business questions into informed decisions through data
 
-![Avatar](public/bio/me.jpg)
+![Avatar](/me.jpg)
 
 ## Social
 
@@ -100,12 +100,6 @@ Turning business questions into informed decisions through data
 4. Rate of resolved and unresolved issues.
 5. Comparison between loan types and amounts, comparison between account types and balances, and monthly and annual transaction trends
 
-- Tech: Laravel, MySQL
-- Image: ![Avatar](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800)
-
-**Hotel Reservation System**
-
-- Hotel booking system with availability checking and booking logic.
 - Tech: Excel (Data Cleaning & Preparation), Pivot Tables & Pivot Charts, Slicers & Timelines, Excel Dashboard Design
 - Image: ![Avatar](/public//projects/Dashboard3/Executive_Banking_Overview.png)
 
