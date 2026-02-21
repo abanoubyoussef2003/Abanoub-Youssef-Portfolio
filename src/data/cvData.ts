@@ -143,48 +143,6 @@ export const cvData: CVData = {
 
   experience: [
     {
-      company: "Faculty of Computers and Artificial Intelligence",
-      subcompany: "Benha University",
-      role: "Academic Student",
-      period: "Sep 2020 - May 2024",
-      description: [
-        "Studied Statistics and Probability for data analysis and decision-making",
-        "Learned Database Management using MySQL",
-        "Python programming applied in AI and data-related tasks",
-        "Developed strong analytical thinking and problem-solving skills through academic projects",
-      ],
-
-      tech: [
-        "Statistics",
-        "Probability",
-        "MySQL",
-        "Python",
-        "AI",
-        "analytical thinking",
-      ],
-    },
-    {
-      company: "Digital Skills Training – 'Tawar w Ghayar' Initiative",
-      subcompany:
-        "Affiliated with Egyptian MCIT, in partnership with Microsoft",
-      role: "Intern Trainee",
-      period: "Jan 2021 – Apr 2021",
-      description: [
-        "Microsoft Excel, Word, PowerPoint, and Outlook",
-        "Freelancing fundamentals and professional work environment skills",
-        "Personal skill development and career readiness",
-      ],
-
-      tech: [
-        "Microsoft Excel",
-        "Microsoft Word",
-        "Microsoft PowerPoint",
-        "Microsoft Outlook",
-        "Freelancing",
-        "Soft Skills",
-      ],
-    },
-    {
       company: "Digital Egypt Pioneers Initiative (DEPI) – Data Analysis Track",
       subcompany: "Professional Training Program",
       role: "Intern Trainee",
@@ -210,6 +168,48 @@ export const cvData: CVData = {
         "Freelancing",
         "Coaching",
         "English",
+      ],
+    },
+    {
+      company: "Digital Skills Training – 'Tawar w Ghayar' Initiative",
+      subcompany:
+        "Affiliated with Egyptian MCIT, in partnership with Microsoft",
+      role: "Intern Trainee",
+      period: "Jan 2021 – Apr 2021",
+      description: [
+        "Microsoft Excel, Word, PowerPoint, and Outlook",
+        "Freelancing fundamentals and professional work environment skills",
+        "Personal skill development and career readiness",
+      ],
+
+      tech: [
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Microsoft PowerPoint",
+        "Microsoft Outlook",
+        "Freelancing",
+        "Soft Skills",
+      ],
+    },
+    {
+      company: "Faculty of Computers and Artificial Intelligence",
+      subcompany: "Benha University",
+      role: "Academic Student",
+      period: "Sep 2020 - May 2024",
+      description: [
+        "Studied Statistics and Probability for data analysis and decision-making",
+        "Learned Database Management using MySQL",
+        "Python programming applied in AI and data-related tasks",
+        "Developed strong analytical thinking and problem-solving skills through academic projects",
+      ],
+
+      tech: [
+        "Statistics",
+        "Probability",
+        "MySQL",
+        "Python",
+        "AI",
+        "analytical thinking",
       ],
     },
   ],
