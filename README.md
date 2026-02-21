@@ -3,7 +3,7 @@
 Data Analyst (Excel SQL Power BI Python)  
 Turning business questions into informed decisions through data
 
-![Avatar](/me.jpg)
+![Avatar](/public/bio/me.jpg)
 
 ## Social
 
