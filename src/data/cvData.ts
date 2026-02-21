@@ -77,7 +77,7 @@ export const cvData: CVData = {
     name: "Abanoub Youssef Aziz",
     title: "Data Analyst (Excel SQL Power BI  Python)",
     tagline: "Turning business questions into informed decisions through data",
-    avatar: "/public/bio/me.jpg",
+    avatar: "/bio/me.jpg",
     social: {
       github: "http://github.com/abanoubyoussef2003",
       linkedin: "https://www.linkedin.com/in/abanoub-youssef-aziz-7683a3393/",
@@ -243,8 +243,8 @@ export const cvData: CVData = {
       link: "",
       github:
         "https://github.com/abanoubyoussef2003/sales-and-Profits-for-E-commarce-Dashboard-",
-      image1: "/public/projects/Dashboard2/Sales_Dashboard.png",
-      image2: "/public/projects/Dashboard2/Profit_Dashboard.png",
+      image1: "/projects/Dashboard2/Sales_Dashboard.png",
+      image2: "/projects/Dashboard2/Profit_Dashboard.png",
     },
     {
       name: "Executive Banking Overview",
