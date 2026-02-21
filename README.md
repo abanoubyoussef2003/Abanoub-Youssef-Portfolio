@@ -1,9 +1,9 @@
 # Abanoub Youssef Aziz — CV Portfolio
 
-Data Analyst (Excel SQL Power BI  Python)  
+Data Analyst (Excel SQL Power BI Python)  
 Turning business questions into informed decisions through data
 
-![Avatar](public/me.jpg)
+![Avatar](public/bio/me.jpg)
 
 ## Social
 
@@ -72,31 +72,42 @@ Turning business questions into informed decisions through data
 - Prompt Engineering, Foundations of Data & Analytics, Data-Driven Decision Making
 - Data Preparation (Python), Data Cleaning (SQL), Data Analysis, Tableau Visualization
 - Intro to Power BI, Dashboard Development (Power BI), Data Governance, Capstone Project
+
 ## Projects
 
-**ERP System**
+**Sales dashboard**
 
-- Full ERP system including CRM, accounting, supplier, assets, and production modules.
-- Tech: PHP, Laravel, MySQL, Livewire
-- Image: https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800
+- Interactive dashboard Which show: Total sales Vs Total profit Monthly , Revenue of Category Vs of Cost Category , Total Profits of each Customer , Top 5 cities in terms of Total sales.
+- Tech: Excel (Data Cleaning & Preparation), Pivot Tables & Pivot Charts, Slicers & Timelines, Excel Dashboard Design
+  github:https://github.com/abanoubyoussef2003/Sales-Data-Dashboard
+- Image: ![Avatar](/public/projects/Dashboard1/Sales_Dashboard.png)
 
-**Agricultural Marketplace**
+**Sales & Profit Dashboard**
 
-- Marketplace with vendor accounts, orders, product management, and admin panel.
-- Tech: Laravel, REST API, MySQL
-- Image: ![Avatar](https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800)
+- Two Fully Interactive and linked dashboards to analyze business Sales and Profit performance using Microsoft Excel.
+- Tech: Excel (Data Cleaning & Preparation), Pivot Tables & Pivot Charts, Slicers & Timelines, Excel Dashboard Design
+- github:https://github.com/abanoubyoussef2003/sales-and-Profits-for-E-commarce-Dashboard-
+- Image: ![Avatar](/public/projects/Dashboard2/Sales_Dashboard.png)
+- Image: ![Avatar](/public/projects/Dashboard2/Profit_Dashboard.png)
 
-**HRM System**
+**Executive Banking Overview**
 
-- Human resource system including employee management, payroll, and leaves.
+- Interactive dashboard which shows:
+
+1. Total customers, bank balance, bank transfers, bank loans, outstanding loans for the year, and active cards.
+2. Total new customers per month.
+3. Comparison between active and inactive cards.
+4. Rate of resolved and unresolved issues.
+5. Comparison between loan types and amounts, comparison between account types and balances, and monthly and annual transaction trends
+
 - Tech: Laravel, MySQL
 - Image: ![Avatar](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800)
 
 **Hotel Reservation System**
 
 - Hotel booking system with availability checking and booking logic.
-- Tech: Laravel, MySQL
-- Image: ![Avatar](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800)
+- Tech: Excel (Data Cleaning & Preparation), Pivot Tables & Pivot Charts, Slicers & Timelines, Excel Dashboard Design
+- Image: ![Avatar](/public//projects/Dashboard3/Executive_Banking_Overview.png)
 
 ## Education
 
@@ -112,4 +123,3 @@ Turning business questions into informed decisions through data
 
 - AI Training Program — ITI Menoufia (2023)
 - Leadership Training Program — Leadership Center – Benha (2021)
-

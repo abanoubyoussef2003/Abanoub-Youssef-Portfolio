@@ -233,7 +233,7 @@ export const cvData: CVData = {
     {
       name: "Sales & Profit Dashboard",
       description:
-        "two fully interactive and linked dashboards to analyze business Sales and Profit performance using Microsoft Excel.",
+        "Two Fully Interactive and linked dashboards to analyze business Sales and Profit performance using Microsoft Excel.",
       tech: [
         "Excel (Data Cleaning & Preparation)",
         "Pivot Tables & Pivot Charts",
