@@ -148,7 +148,7 @@ export const cvData: CVData = {
       role: "Intern Trainee",
       period: "Dec 2025 – Present",
       description: [
-        "Key Topics:",
+        "I learned:",
         "Prompt Engineering, Foundations of Data & Analytics, Data-Driven Decision Making",
         "Data Preparation (Python), Data Cleaning (SQL), Data Analysis, Tableau Visualization",
         "Intro to Power BI, Dashboard Development (Power BI), Data Governance, Capstone Project",
@@ -189,27 +189,6 @@ export const cvData: CVData = {
         "Microsoft Outlook",
         "Freelancing",
         "Soft Skills",
-      ],
-    },
-    {
-      company: "Faculty of Computers and Artificial Intelligence",
-      subcompany: "Benha University",
-      role: "Academic Student",
-      period: "Sep 2020 - May 2024",
-      description: [
-        "Studied Statistics and Probability for data analysis and decision-making",
-        "Learned Database Management using MySQL",
-        "Python programming applied in AI and data-related tasks",
-        "Developed strong analytical thinking and problem-solving skills through academic projects",
-      ],
-
-      tech: [
-        "Statistics",
-        "Probability",
-        "MySQL",
-        "Python",
-        "AI",
-        "analytical thinking",
       ],
     },
   ],
@@ -291,6 +270,10 @@ export const cvData: CVData = {
       details: [
         "Major: Scientific Computing",
         "GPA: 3.43 (Very Good)",
+        "I Studied Statistics and Probability for data analysis and decision-making",
+        "Learned Database Management using MySQL",
+        "Python programming applied in AI and data-related tasks",
+        "Developed strong analytical thinking and problem-solving skills through academic projects",
         "Graduation Project: Handwritten Prescription Detection and Question Answering Medical System",
         "Application mobile (Roشtaa App) using Flutter and integrated NLP and CV model",
       ],

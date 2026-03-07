@@ -77,32 +77,35 @@ Turning business questions into informed decisions through data
 
 **Sales dashboard**
 
-- Interactive dashboard Which show: Total sales Vs Total profit Monthly , Revenue of Category Vs of Cost Category , Total Profits of each Customer , Top 5 cities in terms of Total sales.
-- Tech: Excel (Data Cleaning & Preparation), Pivot Tables & Pivot Charts, Slicers & Timelines, Excel Dashboard Design
+- This dashboard analyzes sales performance between 2014 and 2017, focusing on monthly sales trends, profit distribution, and category performance.
+- Tech: Microsoft Excel, Pivot Tables, Pivot Charts, Interactive Filters (Slicers), Data Visualization
   github:https://github.com/abanoubyoussef2003/Sales-Data-Dashboard
 - Image: ![Avatar](/public/projects/Dashboard1/Sales_Dashboard.png)
 
 **Sales & Profit Dashboard**
 
-- Two Fully Interactive and linked dashboards to analyze business Sales and Profit performance using Microsoft Excel.
-- Tech: Excel (Data Cleaning & Preparation), Pivot Tables & Pivot Charts, Slicers & Timelines, Excel Dashboard Design
+- Two Fully Interactive and linked dashboards to analyze sales and profitability trends to identify top-performing products, regions, and customer segments, and support data-driven decision-making.
+- Tech: Microsoft Excel, Pivot Tables, Pivot Charts, Interactive Filters (Slicers), Data Visualization
 - github:https://github.com/abanoubyoussef2003/sales-and-Profits-for-E-commarce-Dashboard-
 - Image: ![Avatar](/public/projects/Dashboard2/Sales_Dashboard.png)
 - Image: ![Avatar](/public/projects/Dashboard2/Profit_Dashboard.png)
 
 **Executive Banking Overview**
 
-- Interactive dashboard which shows:
+- The Executive Banking Dashboard provides a high-level view of banking performance. It focuses on customer activity, transaction trends, and loan distribution to help financial stakeholders understand key business metrics.
 
-1. Total customers, bank balance, bank transfers, bank loans, outstanding loans for the year, and active cards.
-2. Total new customers per month.
-3. Comparison between active and inactive cards.
-4. Rate of resolved and unresolved issues.
-5. Comparison between loan types and amounts, comparison between account types and balances, and monthly and annual transaction trends
-
-- Tech: Excel (Data Cleaning & Preparation), Pivot Tables & Pivot Charts, Slicers & Timelines, Excel Dashboard Design
+- Tech: Microsoft Excel, Pivot Tables, Pivot Charts, Interactive Filters (Slicers), Data Visualization
+- github:https://github.com/abanoubyoussef2003/Executive-Banking-Dashboard.git
 - Image: ![Avatar](/public//projects/Dashboard3/Executive_Banking_Overview.png)
 
+
+**Phone Brand Market Dashboard**
+
+- This dashboard analyzes smartphone market data including pricing, brand performance, and product ratings. It helps identify trends in smartphone pricing and market share across different brands.
+
+- Tech: Microsoft Excel, Pivot Tables, Pivot Charts, Interactive Filters (Slicers), Data Visualization
+- github:https://github.com/abanoubyoussef2003/Phone-Brand-Market-Dashboard.git
+- Image: ![Avatar](/public/projects//Dashboard4/Phone_Brand_Dashboard.png)
 ## Education
 
 **Benha University**
