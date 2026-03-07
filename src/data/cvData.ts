@@ -218,12 +218,13 @@ export const cvData: CVData = {
     {
       name: "Sales dashboard",
       description:
-        "Interactive dashboard Which show: Total sales Vs Total profit Monthly , Revenue of Category Vs of Cost Category , Total Profits of each Customer , Top 5 cities in terms of Total sales",
+        "This dashboard analyzes sales performance between 2014 and 2017, focusing on monthly sales trends, profit distribution, and category performance.",
       tech: [
-        "Excel (Data Cleaning & Preparation)",
-        "Pivot Tables & Pivot Charts",
-        "Slicers & Timelines",
-        "Excel Dashboard Design",
+        "Microsoft Excel",
+        "Pivot Tables",
+        "Pivot Charts",
+        "Interactive Filters (Slicers)",
+        "Data Visualization",
       ],
       link: "",
       github: "https://github.com/abanoubyoussef2003/Sales-Data-Dashboard",
@@ -233,12 +234,13 @@ export const cvData: CVData = {
     {
       name: "Sales & Profit Dashboard",
       description:
-        "Two Fully Interactive and linked dashboards to analyze business Sales and Profit performance using Microsoft Excel.",
+        "Two Fully Interactive and linked dashboards to analyze sales and profitability trends to identify top-performing products, regions, and customer segments, and support data-driven decision-making.",
       tech: [
-        "Excel (Data Cleaning & Preparation)",
-        "Pivot Tables & Pivot Charts",
-        "Slicers & Timelines",
-        "Excel Dashboard Design",
+        "Microsoft Excel",
+        "Pivot Tables",
+        "Pivot Charts",
+        "Interactive Filters (Slicers)",
+        "Data Visualization",
       ],
       link: "",
       github:
@@ -249,16 +251,34 @@ export const cvData: CVData = {
     {
       name: "Executive Banking Overview",
       description:
-        "Interactive dashboard which shows:1. Total customers, bank balance, bank transfers, bank loans, outstanding loans for the year, and active cards. 2. Total new customers per month. 3. Comparison between active and inactive cards. 4. Rate of resolved and unresolved issues. 5. Comparison between loan types and amounts, comparison between account types and balances, and monthly and annual transaction trends.",
+        "The Executive Banking Dashboard provides a high-level view of banking performance. It focuses on customer activity, transaction trends, and loan distribution to help financial stakeholders understand key business metrics.",
       tech: [
-        "Excel (Data Cleaning & Preparation)",
-        "Pivot Tables & Pivot Charts",
-        "Slicers & Timelines",
-        "Excel Dashboard Design",
+        "Microsoft Excel",
+        "Pivot Tables",
+        "Pivot Charts",
+        "Interactive Filters (Slicers)",
+        "Data Visualization",
       ],
       link: "",
-      github: "",
+      github:
+        "https://github.com/abanoubyoussef2003/Executive-Banking-Dashboard.git",
       image1: "/projects/Dashboard3/Executive_Banking_Overview.png",
+      image2: "",
+    },
+    {
+      name: "Phone Brand Market Dashboard",
+      description:
+        "This dashboard analyzes smartphone market data including pricing, brand performance, and product ratings. It helps identify trends in smartphone pricing and market share across different brands.",
+      tech: [
+        "Microsoft Excel",
+        "Data Cleaning",
+        "Pivot Tables",
+        "Data Visualization",
+      ],
+      link: "",
+      github:
+        "https://github.com/abanoubyoussef2003/Phone-Brand-Market-Dashboard.git",
+      image1: "/projects/Dashboard4/Phone_Brand_Dashboard.png",
       image2: "",
     },
   ],
