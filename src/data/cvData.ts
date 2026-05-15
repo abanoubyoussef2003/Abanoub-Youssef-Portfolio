@@ -45,7 +45,7 @@ export interface Project {
   link: string;
   github: string;
   image1: string;
-  image2:string;
+  image2: string;
 }
 
 export interface Education {
@@ -197,7 +197,7 @@ export const cvData: CVData = {
     {
       name: "Sales dashboard",
       description:
-        "This dashboard analyzes sales performance between 2014 and 2017, focusing on monthly sales trends, profit distribution, and category performance.",
+        "Built an interactive Sales Performance Dashboard using Excel (Pivot Tables, Charts, and Slicers) to analyze sales data from 2014 to 2017, tracking monthly sales trends, profit distribution, and category performance. The analysis revealed strong sales growth toward year-end, with peak performance in November and December, while the Technology category generated the highest revenue. It also identified New York City as the top contributor to total profits, followed by cities like Seattle and Los Angeles, enabling clearer insights into regional and product performance to support data-driven decision-making.",
       tech: [
         "Microsoft Excel",
         "Pivot Tables",
@@ -230,7 +230,7 @@ export const cvData: CVData = {
     {
       name: "Executive Banking Overview",
       description:
-        "The Executive Banking Dashboard provides a high-level view of banking performance. It focuses on customer activity, transaction trends, and loan distribution to help financial stakeholders understand key business metrics.",
+        "Built an interactive Executive Banking Dashboard using Excel (Pivot Tables, Charts, and Slicers) to analyze banking performance for over 5,000 customers, tracking total balances exceeding 249M and transaction activity trends. The analysis identified personal loans as the largest loan segment and revealed peak transaction periods during the year, while highlighting that business accounts hold the highest balances. The dashboard improved reporting efficiency and enabled clearer, data-driven insights for stakeholders.",
       tech: [
         "Microsoft Excel",
         "Pivot Tables",
@@ -258,6 +258,17 @@ export const cvData: CVData = {
       github:
         "https://github.com/abanoubyoussef2003/Phone-Brand-Market-Dashboard.git",
       image1: "/projects/Dashboard4/Phone_Brand_Dashboard.png",
+      image2: "",
+    },
+    {
+      name: "Growth Monthly Sales Dashboard",
+      description:
+        "Developed an interactive Power BI dashboard to analyze sales performance across the first four months of 2023 (January–April), providing executive-level insights into monthly trends, growth rates, and category performance. The dashboard covered a total sales value of $203.6K, with a steady upward trend from $47.3K in January to $54.4K in April, which represented the highest monthly sales and was 15.01% higher than January, the lowest-performing month. Using DAX measures, calculated an overall sales growth of +36.5%, highlighting March as the strongest growth month at 5.44% ($52.3K) and April as the lowest growth month at 4.02% despite achieving peak revenue. Analysis showed a positive correlation between Sales and Sales Previous Month, with April accounting for 26.72% of total sales. Across the period, Sales ranged from $47.3K to $54.4K, while Sales Growth (%) varied between -100.00% and 5.44%. Conducted detailed product category analysis, revealing that Electronics was the top-performing category with $125.9K in sales, exceeding Clothing at $77.7K and contributing 61.84% of total revenue. Designed and implemented 5+ interactive visualizations including KPI cards, combo charts, donut charts, tables, and dynamic slicers to enable data-driven exploration. Applied data cleaning, data modeling, and storytelling techniques to transform raw data into actionable business insights supporting decision-making.",
+      tech: ["Microsoft Excel", "Power BI"],
+      link: "",
+      github:
+        "https://github.com/abanoubyoussef2003/Growth-Monthly-Sales-Dashboard",
+      image1: "projects/Dashboard5/Monthly_Sales_Growth_Analysis_Dashboard.png",
       image2: "",
     },
   ],
